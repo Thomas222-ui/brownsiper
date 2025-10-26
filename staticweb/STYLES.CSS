@@ -1,0 +1,30 @@
+#aboutus {
+    max-width: 40%;
+    color: darkblue;
+}
+
+#banner {
+    width: 100%;
+    height: 40vh;
+    background-size: cover;
+}
+
+a {
+    text-decoration: none;
+}
+#risingstar{
+    max-width: 100%;
+    color: black;
+    font-weight: normal;
+    margin-bottom: 4%;
+}
+#team{
+    float: right;
+    max-width: 40%;
+    width: 30%;
+    margin: 5%;
+}
+h4{
+    text-align: center;
+    margin-top: 20% ;
+}
