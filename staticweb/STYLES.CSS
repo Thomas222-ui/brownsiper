@@ -1,6 +1,6 @@
 #aboutus {
     max-width: 40%;
-    color: darkblue;
+    color: rgb(139, 0, 23);
 }
 
 #banner {
@@ -22,7 +22,7 @@ a {
     float: right;
     max-width: 40%;
     width: 30%;
-    margin: 5%;
+    margin: 6%;
 }
 h4{
     text-align: center;
